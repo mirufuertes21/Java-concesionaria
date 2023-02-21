@@ -1,1 +1,5 @@
 # Java-concesionaria
+
+-JPA
+-MySQL
+-
